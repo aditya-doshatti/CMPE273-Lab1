@@ -1,0 +1,9 @@
+adityadoshatti@adityas-Ubuntu:~/CMPE273/Lab1/CMPE273-Lab1$ python3 /home/adityadoshatti/CMPE273/Lab1/CMPE273-Lab1/http_call.py
+Sun, 02 Sep 2018 03:51:16 GMT
+Sun, 02 Sep 2018 03:51:17 GMT
+Sun, 02 Sep 2018 03:51:18 GMT
+adityadoshatti@adityas-Ubuntu:~/CMPE273/Lab1/CMPE273-Lab1$ python3 /home/adityadoshatti/CMPE273/Lab1/CMPE273-Lab1/http_asyc_call.py
+Sun, 02 Sep 2018 03:51:23 GMT
+Sun, 02 Sep 2018 03:51:23 GMT
+Sun, 02 Sep 2018 03:51:23 GMT
+adityadoshatti@adityas-Ubuntu:~/CMPE273/Lab1/CMPE273-Lab1$
